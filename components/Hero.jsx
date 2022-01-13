@@ -92,7 +92,7 @@ export const Hero = () => {
               <h4 className="text-xs font-bold mb-4">
                 VÄLKOMMEN TILL NEARCLOUD
               </h4>
-              <h1 className="text-6xl font-medium">Den lokala molntänsten</h1>
+              <h1 className="text-6xl font-medium">Den lokala molntjänsten</h1>
             </div>
           </div>
 
