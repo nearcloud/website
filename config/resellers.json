@@ -1,12 +1,9 @@
 [
   {
-    "title": "Linnea",
+    "title": "Nearcloud by IITN",
     "description": "",
-    "img": "/linnea-logo.svg",
+    "img": "/logo.svg",
     "tag": "Kiruna",
-    "links": [
-      { "name": "linnea.com", "href": "https://linnea.com" },
-      { "name": "info@linnea.com", "href": "mailto:info@linnea.com" }
-    ]
+    "links": [{ "name": "info (at) iitn.se", "href": "" }]
   }
 ]
